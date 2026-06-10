@@ -4,7 +4,7 @@ import time
 from datetime import datetime, timedelta
 from telebot.types import InlineKeyboardMarkup, InlineKeyboardButton, ReplyKeyboardMarkup, KeyboardButton
 
-TOKEN = "ТВОЙ_ТОКЕН_СЮДА"
+TOKEN = "8944104317:AAGmrrhy1itDy3H-n9643jPLHz3zhNab4NQ"
 bot = telebot.TeleBot(TOKEN)
 
 # ========== БАЗА ДАННЫХ ==========
